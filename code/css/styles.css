@@ -1,6 +1,17 @@
 /* PARAMETRES GLOBAUX */
-
-
+body{
+    background-color: #F2E205;
+}
+h1,h2,h3,h4,h5,h6{
+   color: white;
+}
+.titresection{
+    border: 1px solid black;
+    background-color: #0D0D0D;
+    margin: 1.5em;
+    padding: 1em;
+    text-align: center;
+}
 
 
 
